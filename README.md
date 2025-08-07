@@ -1,0 +1,2 @@
+# latihan01
+belajar
